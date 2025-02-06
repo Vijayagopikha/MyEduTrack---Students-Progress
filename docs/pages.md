@@ -1,5 +1,19 @@
+# 1) Sign Up / Sign In
 
-# 1) ToDo List
+## Purpose:
+     Allows students to register for an account and log in securely.
+## Features on the Authentication Page
+
+### Sign Up
+- Email
+- Password
+
+### Sign In
+- Email
+- Password
+- Forgot Password
+
+# 2) ToDo List
 
 ## Purpose:
     A task management system to help students track their daily acdemic and personal activities. 
@@ -12,7 +26,7 @@
 - Delete the tasks if needed
 
 
-# 2) Attendance Page
+# 3) Attendance Page
 
 ## Purpose:
     Students can mark daily attendance and view attendance history.
@@ -25,7 +39,7 @@
   - A calendar view to track past attendance.
 
 
-# 3) Marks Entry Page 
+# 4) Marks Entry Page 
 
 ## Purpose:
     Allows students to enter subject-wise marks and CGPA.
