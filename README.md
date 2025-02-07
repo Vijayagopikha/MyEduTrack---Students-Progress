@@ -30,7 +30,10 @@
   4. Logout – Securely exit the system.
 
 ## Tech Stack
-  MERN Stack
+   MERN Stack
+   Frontend : React.js
+   Backend : Node.js
+   Database : MongoDb
 
 # Thank You
 
